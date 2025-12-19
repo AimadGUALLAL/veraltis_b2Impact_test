@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+src/__pycache__/
+src/__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+#jupyter notebooks
+notebooks/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optionnel - ne pas commiter les données)
